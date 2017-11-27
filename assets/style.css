@@ -13,7 +13,7 @@ div {
 }
 
 h1::after {
-    width: 100px;
+    width: 120px;
     height: 6px;
     background-color: #4f8a49;
     content: '';
